@@ -1,0 +1,24 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(042.webp);
+    opacity: 0.8;
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(043.webp);
+    opacity: 0.8;
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(044.webp);
+    opacity: 0.8;
+}
+
+  .carousel-item {
+    height: 50rem;
+  } 
